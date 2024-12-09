@@ -1,5 +1,9 @@
-import Accordion from "./components/Accordion";
+import Faqes from "./components/Faqes";
 
 export default function App() {
- return <>{/* <Accordion /> */}</>;
+ return (
+  <>
+   <Faqes />
+  </>
+ );
 }
