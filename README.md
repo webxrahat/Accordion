@@ -1,8 +1,9 @@
-# React + Vite
+### Accordion: `Hover Accordion with Animated Panels`
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Expand and collapse panels on hover.
+- Smooth transitions and dynamic resizing of sibling panels.
 
-Currently, two official plugins are available:
+  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/user-attachments/assets/9635c6ed-a68f-4e26-961c-bd68e2498c62
+
